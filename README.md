@@ -1,8 +1,35 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+#### Mock React Interview
 
-Currently, two official plugins are available:
+This project has been used a public API  `people`
+```sh
+https://swapi.dev/
+```
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+#### features
+```sh
+* pagination
+* useEffect(didmount, didupdate) 
+```
+
+#### Clone the reposiroty from GitHub
+
+```sh
+git clone https://github.com/polacodev/mock-swapi-react-interview.git
+```
+
+#### Install the app dependencies using the script:
+```sh
+npm install
+```
+
+#### Run the app using the script:
+```sh
+npm run dev
+```
+
+#### The Stack used on this web site are:
+* Vite
+* React
+* JavaScript
